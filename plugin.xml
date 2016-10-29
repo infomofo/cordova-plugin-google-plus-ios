@@ -20,7 +20,6 @@
     <dependency id="cordova-plugin-google-open-source-ios" />
     <framework src="GooglePlus.framework" custom="true" />
     <framework src="AddressBook.framework" />
-    <framework src="AssetsLibrary.framework" />
     <framework src="Foundation.framework" />
     <framework src="CoreLocation.framework" />
     <framework src="CoreMotion.framework" />
